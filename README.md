@@ -11,11 +11,9 @@
 #### Install dependencies:
 pip install -r requirements.txt
 
-Create a PostgreSQL database:
-Create a new PostgreSQL database named postgres.
 Update the db_url variable in app.py with your PostgreSQL database URL.
 
-Run the application:
+#### Run the application:
 python app.py
 The application should now be running on http://localhost:5000.
 
