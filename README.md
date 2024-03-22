@@ -9,7 +9,7 @@
 
 
 #### Install dependencies:
-⋅⋅* pip install -r requirements.txt
+pip install -r requirements.txt
 
 Create a PostgreSQL database:
 Create a new PostgreSQL database named postgres.
