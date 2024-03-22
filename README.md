@@ -15,18 +15,20 @@ Update the db_url variable in app.py with your PostgreSQL database URL.
 
 #### Run the application:
 python app.py
+
+
 The application should now be running on http://localhost:5000.
 
-Usage
-Navigate to http://localhost:5000 in your web browser to view the list of people.
-To add a new person, click on the "Add Person" button and fill out the form.
-To delete a person, click on the "Delete" button next to their name.
-To update a person's information, click on the "Update" button next to their name and fill out the form with the new information.
+#### Usage
+1. Navigate to http://localhost:5000 in your web browser to view the list of people.
+2. To add a new person, click on the "Add Person" button and fill out the form.
+3. To delete a person, click on the "Delete" button next to their name.
+4. To update a person's information, click on the "Update" button next to their name and fill out the form with the new information.
 
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+#### Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
