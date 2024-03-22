@@ -1,7 +1,8 @@
 Flask SQLAlchemy PostgreSQL CRUD App
-This is a simple CRUD (Create, Read, Update, Delete) web application built with Flask, SQLAlchemy, and PostgreSQL. It allows users to manage a list of people, including their social security number, name, gender, and age.
+This is a simple CRUD (Create, Read, Update, Delete) web application built with Flask, SQLAlchemy, and PostgreSQL. 
+It allows users to manage a list of people, including their social security number, name, gender, and age.
 
-Features
+Features:
 View a list of people
 Add a new person
 Delete an existing person
@@ -10,8 +11,8 @@ Update the information of an existing person
 
 Install dependencies:
 pip install -r requirements.txt
-Create a PostgreSQL database:
 
+Create a PostgreSQL database:
 Create a new PostgreSQL database named postgres.
 Update the db_url variable in app.py with your PostgreSQL database URL.
 
