@@ -8,8 +8,8 @@
 4. Update the information of an existing person
 
 
-Install dependencies:
-pip install -r requirements.txt
+#### Install dependencies:
+⋅⋅* pip install -r requirements.txt
 
 Create a PostgreSQL database:
 Create a new PostgreSQL database named postgres.
