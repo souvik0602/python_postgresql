@@ -3,9 +3,9 @@
 
 ### Features:
 1. View a list of people
-Add a new person
-Delete an existing person
-Update the information of an existing person
+2. Add a new person
+3. Delete an existing person
+4. Update the information of an existing person
 
 
 Install dependencies:
